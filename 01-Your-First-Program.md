@@ -2,11 +2,16 @@
 
 Table of Contents
 
+- [Your First Program](#your-first-program)
+  - [What is a Program?](#what-is-a-program)
+  - [Hands On: "Hello, World!"](#hands-on-hello-world)
+  - [Recap](#recap)
+
 ## What is a Program?
 
 As we start diving into the world of programming, let's take a moment to consider this question: **What is a program?**
 
-In short, **a program is a set of instruction that can be executed to achieve certain tasks.**
+In short, **a program is a set of instruction that can be executed to perform a specific task.**
 
 In other words, it's you telling the computer what to do, and how to do it.
 
