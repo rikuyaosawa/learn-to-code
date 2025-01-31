@@ -53,6 +53,8 @@ We are going to use Google Chrome browser as our editor, where we write our prog
 
 Let's make our computer say "Hello, World!" to us. Why `Hello, World!` ? Well, it's traditional. Or a meme. Programming meme, you could say. It's something us programmers do when we make a fresh start at, for example, a programming language, or some other technology related stuff.
 
+Notice this time **we are wrapping the words with quotations**. We need to because we are telling the computer the words wrapped inside the quotations are not numbers, but "words". As we shall discuss this more in details later, these number and "words" are called **data type**. Data types are used so that the computer can understand our instructions better and with more flexibility.
+
 #### JavaScript
 
 The programming language we are using here is called `JavaScript`. It is a language that revolutionized the world of websites, and still one of if not the most popular language today in 2025.
