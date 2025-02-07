@@ -121,7 +121,7 @@ Let's recap what we learned today:
   We haven't used `let`, and `const` yet.
 
 - The variable name is decided by us, the coder, and they follow a convention called **camel casing** that looks like: `myNumber`, `tastyBanana` where the second word is capitalized.
-- The equal sign `=` assigns the left hand side value to the right hand side variable, like: `var myNumber = 10`, where `10` gets stored inside `myNumber`.
+- The equal sign `=` assigns the right hand side value to the left hand side variable, like: `var myNumber = 10`, where `10` gets stored inside `myNumber`.
 
 <br />
 
