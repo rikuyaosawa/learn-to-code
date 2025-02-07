@@ -42,7 +42,7 @@ Let's formally state what data types are:
 So far, we have used two types already:
 
 - one with the quotations, like `"Hello!"`
-- one without the quotations, and are numbers, like `"123"`
+- one without the quotations, and are numbers, like `123`
 
 And their data types are called **string** and **number**.
 
@@ -91,7 +91,7 @@ You will most likely encounter this error message:
 Uncaught ReferenceError: ... is not defined
 ```
 
-Computer is complaining that it has not reference to whatever we wrote without the quotations.
+Computer is complaining that it has no reference to whatever we wrote without the quotations.
 
 This is because the computer thinks they are dealing with something called a **variable**. It is a box where you can store pretty much any kind of data.
 
